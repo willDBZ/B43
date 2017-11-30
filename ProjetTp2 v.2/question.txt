@@ -1,0 +1,3 @@
+1- un seul inventaire par magasin??? mais ca contredit dans le texte
+
+2- objet Produit: quantité en stock pour tous les magasins???
